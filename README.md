@@ -1,7 +1,16 @@
 ## Absolute Path Implementation
 
 This repo supports the usage of absolute paths for file and folder creation. By configuring the project with absolute paths, you can specify the exact location where the feature files and folders should be created.
-# Feature Files and Folders Creator
+
+## Pre-commit Husky for linting
+
+Have included Pre-commit Husky as part of the project setup. This ensures that before every commit, the code is automatically checked for any ESLint errors or code style violations. This helps maintain a consistent code quality throughout the project and minimizes the chances of introducing bugs or issues.
+
+## React Native Vector Icons
+
+Have integrated React Native Vector Icons into the project. This library provides a wide range of customizable vector icons that can be easily used in your app. Icons play a vital role in enhancing the user interface and providing intuitive visual cues. With React Native Vector Icons, you have access to a vast collection of icons to choose from and can easily customize their size, color, and style to match your app's design requirements.
+
+## Feature Files and Folders Creator
 
 This script automates the creation of files and folders for a feature in a project. It helps in scaffolding new features and organizing them in the project structure.
 
